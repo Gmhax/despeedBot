@@ -1,7 +1,7 @@
 # DeSpeed Bot auto send report speed test quality
 
 ![banner](./img/image.png)
-- website : [https://despeed.net](https://app.despeed.net/register?ref=EHP3FKKlEsK4)
+- website : [https://despeed.net](https://app.despeed.net/register?ref=bHVbMNP7VMNa) 
 
 ## Features
 
@@ -15,7 +15,7 @@
 
 - Node.js installed on your machine
 - Despeed token follow instruction to get:
-- Register here : [https://despeed.net/](https://app.despeed.net/register?ref=EHP3FKKlEsK4)
+- Register here : [https://despeed.net/](https://app.despeed.net/register?ref=bHVbMNP7VMNa)
 - login and inspect or F12 find application
 - in local storage find token and copy all value
     ![token](./img/image-1.png)
@@ -41,6 +41,12 @@
     ```sh
     nano proxy.txt
     ```
+
+## Create session 
+    ```sh
+    screen -S speed
+    ```
+    
 5. Run the script:
     ```sh
     npm run start
