@@ -42,11 +42,11 @@
     nano proxy.txt
     ```
 
-## Create session 
-
-     ```sh
-     screen -S speed
-     ```
+4/5.Create session 
+    ```sh
+    screen -S speed
+    ```
+     
     
 5. Run the script:
     ```sh
